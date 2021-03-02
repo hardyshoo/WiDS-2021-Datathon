@@ -15,5 +15,5 @@ The original dataset was enhanced with manual feature engineering based on the s
 
 ## Acknowledgments
 
-* Thanks to Women in Data Science(https://www.widsconference.org/) and Kaggle for hosting the competition!
+* Thanks to [Women in Data Science](https://www.widsconference.org/) and Kaggle for hosting the competition!
 * Thanks to the Kaggle community for the thoughtful discussions and great ideas shared throughout. Special thanks to [this kernel](https://www.kaggle.com/siavrez/2020fatures) for some of the feature engineering ideas.
