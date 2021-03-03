@@ -4,7 +4,7 @@ This is a summary of the code and processes I used to generate submissions for t
 
 ## Modeling Process
 
-The original dataset was enhanced with manual feature engineering based on the structure of the data, along with MICE imputation of a few key variables. From there, some irrelevant features were filtered out through an iterative process of building a catboost model and using permutation importance to identify variables with negative contribution to the AUC. This filtered data was then used to build Catboost and LightGBM models, using Optuna to help with hyperparameter tuning. Final submission was an average of 2 LightGBM models and 1 CatBoost model. If you're interested in a more detailed walkthrough, check out [my Kaggle post].(https://www.kaggle.com/c/widsdatathon2021/discussion/223276)
+The original dataset was enhanced with manual feature engineering based on the structure of the data, along with MICE imputation of a few key variables. From there, some irrelevant features were filtered out through an iterative process of building a catboost model and using permutation importance to identify variables with negative contribution to the AUC. This filtered data was then used to build Catboost and LightGBM models, using Optuna to help with hyperparameter tuning. Final submission was an average of 2 LightGBM models and 1 CatBoost model. If you're interested in a more detailed walkthrough, check out [my Kaggle post](https://www.kaggle.com/c/widsdatathon2021/discussion/223276).
 
 ## Notebooks
 
