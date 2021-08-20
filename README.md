@@ -1,6 +1,6 @@
 # WiDS-2021-Datathon
 
-This is a summary of the code and processes I used to generate submissions for the [WiDS 2021 Datathon](https://www.kaggle.com/c/widsdatathon2021/). My final score was .87461 AUC, good enough for 15th place out of 808 teams.
+This is a summary of the code and processes I used to generate submissions for the [WiDS 2021 Datathon](https://www.kaggle.com/c/widsdatathon2021/). My final score was .87461 AUC, good enough for 9th place out of 762 teams.
 
 ## Modeling Process
 
